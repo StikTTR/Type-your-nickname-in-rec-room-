@@ -1,0 +1,6 @@
+xyi = input ('Enter your nickname from the rec room, it should start with @\n')
+a=('You wrote a nickname:' + xyi)
+b=('\nWithin 24 hours, the account will be blocked')
+print(a + b)
+print('----------------------------------------------------------')
+chlen = input('Cheers!')
